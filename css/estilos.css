@@ -1,21 +1,24 @@
-body {
-    background-color: black;
-}
-
-
-
+/*HEADER*/
 .Logo {
-    width: 100px;
+    width: 200px;
     height: 100px;
 }
 header {
     border-bottom: 1px solid black;
 }
 .fondoCeleste {
-    background-color: aquamarine;
+    background-color: skyblue;
 }
 .fuentes {
     font-size: 2rem;
     padding-left: 2rem;
     text-transform: uppercase;
+}
+.container-fluid {
+    background-color: grey;
+}
+/*FOOTER*/
+.red-social {
+    width: 40px;
+    height: 40px;
 }
