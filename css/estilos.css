@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+}
+
+
+
+.Logo {
+    width: 100px;
+    height: 100px;
+}
+header {
+    border-bottom: 1px solid black;
+}
+.fondoCeleste {
+    background-color: aquamarine;
+}
+.fuentes {
+    font-size: 2rem;
+    padding-left: 2rem;
+    text-transform: uppercase;
+}
