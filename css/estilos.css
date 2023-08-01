@@ -8,6 +8,9 @@ header {
 }
 .fondoCeleste {
     background-color: skyblue;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
 }
 .fuentes {
     font-size: 2rem;
@@ -16,6 +19,7 @@ header {
 }
 .container-fluid {
     background-color: grey;
+    margin-top: auto;
 }
 
 .Titulo {
@@ -23,4 +27,5 @@ header {
     padding: auto;
     border: 0;
     font: bold;
+    margin-bottom: 5;
 }
