@@ -18,4 +18,9 @@ header {
     background-color: grey;
 }
 
-/*FOOTER*/
+.Titulo {
+    text-align: center;
+    padding: auto;
+    border: 0;
+    font: bold;
+}
